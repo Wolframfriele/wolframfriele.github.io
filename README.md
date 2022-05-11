@@ -1,1 +1,0 @@
-wolframfriele.github.io

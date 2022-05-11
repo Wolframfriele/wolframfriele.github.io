@@ -1,0 +1,17 @@
+nav.svelte-yxuxx.svelte-yxuxx{margin:0;padding:0;text-decoration:none;font-family:"Syne", sans-serif}img.svelte-yxuxx.svelte-yxuxx{width:44px;height:30px}#header-logo.svelte-yxuxx.svelte-yxuxx:hover{text-decoration:none}#company-name.svelte-yxuxx.svelte-yxuxx{display:inline;color:#d3d3d3;font-variant-caps:normal;font-weight:200;text-decoration:none}ul.svelte-yxuxx.svelte-yxuxx{display:flex;justify-content:space-between;align-self:center;margin:10px 0;padding:0;width:100%}li.svelte-yxuxx.svelte-yxuxx{list-style:none}nav.svelte-yxuxx a.svelte-yxuxx{text-decoration:none;font-variant-caps:all-small-caps;color:#a1a1a1;font-size:1.1em}nav.svelte-yxuxx a.svelte-yxuxx:hover{text-decoration:underline;color:#a1a1a1;font-size:1.1em}.current.svelte-yxuxx.svelte-yxuxx{color:white}.current.svelte-yxuxx.svelte-yxuxx:hover{color:#f0f0f0;text-decoration:underline}@media(min-width: 700px){nav.svelte-yxuxx.svelte-yxuxx{display:grid;grid-template-columns:minmax(0, 1fr)
+				minmax(50px, 160px)
+				minmax(50px, 160px)
+				minmax(50px, 160px)
+				minmax(50px, 160px)
+				minmax(50px, 160px)
+				minmax(50px, 160px)
+				minmax(0, 1fr);grid-gap:25px}#header-logo.svelte-yxuxx.svelte-yxuxx{grid-column:2 / 5}ul.svelte-yxuxx.svelte-yxuxx{grid-column:5 / 8;float:right;justify-content:flex-end;margin:1em 0}li.svelte-yxuxx.svelte-yxuxx{margin-left:1em}}
+footer.svelte-x3s90c{align-self:end;margin:2em 0 0 0}#copyright.svelte-x3s90c{margin:2em 0}ul.svelte-x3s90c{margin:2em 0;padding:0}li.svelte-x3s90c{list-style:none;margin:.5em 0}@media(min-width: 700px){footer.svelte-x3s90c{display:grid;grid-template-columns:minmax(0, 1fr)
+				minmax(50px, 160px)
+				minmax(50px, 160px)
+				minmax(50px, 160px)
+				minmax(50px, 160px)
+				minmax(50px, 160px)
+				minmax(50px, 160px)
+				minmax(0, 1fr);grid-gap:25px}#copyright.svelte-x3s90c{display:grid;grid-row:1;grid-column:2 / 4;justify-self:left;align-items:flex-end;margin:2.5em 0}#footer-links.svelte-x3s90c{grid-row:1;grid-column:6 / 8;justify-self:right}h2.svelte-x3s90c{text-align:right}ul.svelte-x3s90c{display:flex;justify-content:right}li.svelte-x3s90c{margin:0 0 0 1em}}
+h1.svelte-8od9u6,p.svelte-8od9u6{margin:0 auto}h1.svelte-8od9u6{font-size:2.8em;font-weight:700;margin:0 0 0.5em 0}p.svelte-8od9u6{margin:1em auto}@media(min-width: 480px){h1.svelte-8od9u6{font-size:4em}}
